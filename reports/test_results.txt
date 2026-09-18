@@ -1,0 +1,689 @@
+==============================================================================================================
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  PHISHING URL DETECTOR — TEST RESULTS
+  Student : Anil Kumar
+  Date    : 2026-09-18 23:22:50
+  Model   : RandomForestClassifier
+  Accuracy: 100.00%
+=
+  #   Expected     Actual         Conf  Pass   URL                                                     Note
+--------------------------------------------------------------------------------------------------------------
+  1   Legitimate   Legitimate   100.0%  [PASS]  https://www.google.com                                  Google homepage — clean HTTPS, no suspic
+  2   Legitimate   Legitimate   100.0%  [PASS]  https://github.com/user/repo                            GitHub repo — standard structure
+  3   Legitimate   Legitimate   100.0%  [PASS]  https://www.wikipedia.org/wiki/Phishing                 Wikipedia article — trusted domain
+  4   Legitimate   Legitimate    80.0%  [PASS]  https://stackoverflow.com/questions/tagged/python       Stack Overflow — well-known developer si
+  5   Legitimate   Legitimate    85.5%  [PASS]  https://www.microsoft.com/en-us/windows                 Microsoft official — standard HTTPS
+  6   Legitimate   Legitimate    61.0%  [PASS]  https://www.youtube.com/watch?v=dQw4w9WgXcQ             YouTube — legitimate query params
+  7   Legitimate   Legitimate   100.0%  [PASS]  https://www.linkedin.com/in/profile                     LinkedIn profile — legitimate path
+  8   Phishing     Phishing      85.5%  [PASS]  http://paypal-secure-login.update-account.xyz/verify/b  Brand impersonation + suspicious TLD
+  9   Phishing     Phishing     100.0%  [PASS]  http://192.168.1.1/login/verify?cmd=account&update=1    Raw IP address + suspicious keywords
+  10  Phishing     Phishing     100.0%  [PASS]  http://bit.ly/3xABCDE                                   URL shortener — hides destination
+  11  Phishing     Phishing      86.5%  [PASS]  http://amazon.com.phish-site.tk/signin/confirm          amazon.com as subdomain trick
+  12  Phishing     Phishing     100.0%  [PASS]  http://secure.paypal-verify.ml/webscr?cmd=_login-submi  Fake PayPal — suspicious keywords + bad 
+  13  Phishing     Phishing      86.5%  [PASS]  http://netflix-account-suspended.top/update/billing     Brand + 'suspended' keyword + bad TLD
+  14  Phishing     Phishing      87.5%  [PASS]  http://login.microsoft.com.verify-account.xyz/password  Microsoft impersonation subdomain chain
+  15  Phishing     Phishing     100.0%  [PASS]  http://185.220.101.50/download/install/setup.exe        IP-based malware distribution URL
+
+==============================================================================================================
+  SUMMARY:  15/15 passed   |   0 failed
+  Pass Rate: 100.0%
+==============================================================================================================
+
+  False Positive Analysis (Legitimate URL classified as Phishing):
+    None — no false positives on this test set.
+
+  False Negative Analysis (Phishing URL classified as Legitimate):
+    None — no false negatives on this test set.

@@ -1,0 +1,29 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# SQLite runtime database (auto-created on run)
+history.db
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+
+# Fonts (large binary, not source code)
+fonts/
+
+# Temporary files
+*.tmp
+*.log
