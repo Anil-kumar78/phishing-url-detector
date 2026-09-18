@@ -1,29 +1,5 @@
-# Python bytecode
-__pycache__/
-*.py[cod]
-*.pyo
 
-# Virtual environments
-venv/
-env/
-.venv/
-
-# SQLite runtime database (auto-created on run)
-history.db
-
-# OS files
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# IDE / editor
-.vscode/
-.idea/
-*.swp
-
-# Fonts (large binary, not source code)
-fonts/
-
-# Temporary files
-*.tmp
-*.log
+# Submission files (kept locally, not on GitHub)
+01_Project_Report.pdf
+02_Source_Code.zip
+05_Project_Presentation.pptx

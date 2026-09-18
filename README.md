@@ -6,19 +6,6 @@ Analyzes URLs using **22 lexical and structural features** and classifies them a
 
 ---
 
-## 👨‍💻 Student / Team Details
-
-| Field | Details |
-|-------|---------|
-| **Student Name** | Anil Kumar |
-| **Project Title** | Phishing URL Detection System |
-| **Domain** | Cybersecurity — Threat Detection / Machine Learning |
-| **Company / Institute** | YHills Edutech |
-| **Guide / Trainer** | Sakshi Pandey |
-| **Submission Date** | October 2026 |
-
----
-
 ## 📁 Project Structure
 
 ```
